@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Application" factoryName="Application">
+    <envs>
+      <env name="DB_USER" value="root" />
+      <env name="DB_PASSWORD" value="sasa123" />
+      <env name="DB_URL" value="jdbc:mysql://localhost:3306/db_yugi" />
+    </envs>
+    <module name="yugiohCounter" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -4,7 +4,6 @@ import com.yugiohcounter.yugiohcounter.DTO.DTOResponse;
 import com.yugiohcounter.yugiohcounter.DTO.DTOSituacion;
 import com.yugiohcounter.yugiohcounter.Entities.Situacion;
 import com.yugiohcounter.yugiohcounter.Services.SituacionService;
-import org.springframework.data.repository.support.Repositories;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
