@@ -36,6 +36,6 @@ _Los jugadores pueden ingresar información sobre la situación del juego que en
 La API generará una lista de cartas recomendadas para esa situación en particular, así como una breve descripción de lo que se busca interrumpir o evitar. Las recomendaciones pueden incluir:
 * Cartas de Interrupción: Hand traps como "Ash Blossom & Joyous Spring" para detener búsquedas o invocaciones clave.
 * Cartas de Remoción: Hechizos/trampas como "Cosmic Cyclone" o "Twin Twisters" para destruir cartas problemáticas del campo.
-* Cartas Defensivas: Efectos que permiten sobrevivir o ganar ventaja mientras se buscan soluciones (como "Dark Ruler No More" o "Evenly Matched"). *italic words*.
+* Cartas Defensivas: Efectos que permiten sobrevivir o ganar ventaja mientras se buscan soluciones (como "Dark Ruler No More" o "Evenly Matched").
 4. **Que beneficios tiene para un jugador casual?**
 Ayuda a los jugadores a encontrar las mejores cartas para contrarrestar la estrategia de su oponente, mejorando su comprensión del juego y brindándoles más opciones de respuesta ante diferentes situaciones.
